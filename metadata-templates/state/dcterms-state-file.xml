@@ -3,7 +3,7 @@
 <dcterms xsi:schemaLocation="http://purl.org/dc/terms/ 2QDCSchema.xsd" xmlns="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 
 <creator>110 - Agency</creator>
-<relation>541$e - Accession Number. Format: ####/###</relation>
-<isPartOf>Series Source Citation - optional</isPartOf>
+<relation>541$e - Accession Number</relation>
+<isPartOf>Series Source Citation</isPartOf>
 <license>This item may be protected by copyright, and is made available here for research and educational purposes. The user is responsible for making a final determination of copyright status. If copyright protection applies, permission must be obtained from the copyright holder to reuse, publish, or reproduce the object beyond the bounds of Fair Use or other exemptions to the law.</license>
 </dcterms>
