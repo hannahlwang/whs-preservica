@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dcterms xsi:schemaLocation="http://purl.org/dc/terms/ 2QDCSchema.xsd" xmlns="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+
+<creator>Creator/Donor Name</creator>
+<references>Collection Call Number</references>
+<description>541$e - Addition Number (if exists).</description>
+<abstract>541$3 - Addition Description</abstract>
+<temporal>245$f - Date range. Format: YYYY or YYYY-YYYY or YYYY, YYYY-YYYY</temporal>
+<accessRights>506 - Restrictions on access/ Format: "Restricted by Wis. Stat. _______"</accessRights>
+<license>This item may be protected by copyright, and is made available here for research and educational purposes. The user is responsible for making a final determination of copyright status. If copyright protection applies, permission must be obtained from the copyright holder to reuse, publish, or reproduce the object beyond the bounds of Fair Use or other exemptions to the law.</license>
+</dcterms>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dcterms xsi:schemaLocation="http://purl.org/dc/terms/ 2QDCSchema.xsd" xmlns="http://purl.org/dc/terms/"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+
+<title>245$a - Collection Title</title>
+<bibliographicCitation>099 - Call Number Ex. Stout Mss 29</bibliographicCitation>
+<creator>Creator/Donor Name</creator>
+<abstract>Collection Description. Ex: Records of the Evergreen Cemetery Association (ECA) in Menomonie, Wisconsin, 1874-2010, founded by the Knapp-Stout & Co. [Lumber] Company and later managed by the ECA. Included in the collection are burial records and research papers documenting the renovation and restoration of the cemetery in the effort to place the burial ground of the State and National Registers of Historic Places. Burial records detail demographic information, 1874-1993. Also included are newspaper clippings, 1874-2009, reporting the cemetery's history and relationship to Menomonie. Chicago landscape architects, William French and Horace Cleveland, landscaped the cemetery in Rural Romantic style.</abstract>
+<temporal>245$f - Date range. Format: YYYY or YYYY-YYYY or YYYY, YYYY-YYYY</temporal>
+<subject>650 - Subject heading. Arbitrary string, no '--' or '.'</subject>
+<subject>650 - Subject heading. Arbitrary string, no '--' or '.'</subject>
+<spatial>Spatial Location</spatial>
+<type>655 - Record type. Manuscript collection</type>
+<medium>300 - 'Electronic Records' - optional</medium>
+<identifier>035 - ocn#########</identifier>
+<isReferencedBy>https://search.library.wisc.edu/catalog/999464559502121</isReferencedBy>
+
+</dcterms>
