@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dcterms xsi:schemaLocation="http://purl.org/dc/terms/ 2QDCSchema.xsd" xmlns="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+
+<creator>110 - Agency</creator>
+<abstract>541$3 - Accession Description</abstract>
+<relation>541$e - Accession Number</relation>
+<isPartOf>Series Source Citation</isPartOf>
+<temporal>245$f - Date range</temporal>
+<accessRights>506 - Restrictions on acces</accessRights>
+</dcterms>
