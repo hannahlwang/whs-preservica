@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dcterms xsi:schemaLocation="http://purl.org/dc/terms/ 2QDCSchema.xsd" xmlns="http://purl.org/dc/terms/"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+
+<title>245$a - Series Title</title>
+<alternative>099 - Series. Format: ####</alternative>
+<creator>110 - Agency</creator>
+<abstract>Series Description. Ex: Press releases, 1995-2008, issued by the Dept. of Workforce Development, announcing programs, initiatives, events, job training services, and unemployment related announcements. Many releases contain summaries of the Department Secretary's speeches.</abstract>
+<temporal>245$f - Date range. Format: YYYY or YYYY-YYYY or YYYY, YYYY-YYYY</temporal>
+<subject>650 - Subject heading. Arbitrary string, no '--' or '.'</subject>
+<subject>650 - Subject heading. Arbitrary string, no '--' or '.'</subject>
+<subject>650 - Subject heading. Arbitrary string, no '--' or '.'</subject>
+<subject>650 - Subject heading. Arbitrary string, no '--' or '.'</subject>
+<spatial>Spatial Location</spatial>
+<type>655 - Record type. Options: State government records, Manuscript collection, Local government records</type>
+<medium>300 - 'Electronic Records' - optional</medium>
+<identifier>035 - ocn#########</identifier>
+<isReferencedBy>https://search.library.wisc.edu/catalog/999464559502121</isReferencedBy>
+
+</dcterms>
